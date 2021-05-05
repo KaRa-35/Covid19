@@ -1,0 +1,122 @@
+location;date;vaccine;source_url;total_vaccinations;people_vaccinated;people_fully_vaccinated;new cases;new deaths
+Argentina;2020-12-29;Sputnik V;https://www.argentina.gob.ar/noticias/ministros-de-salud-del-pais-celebran-el-inicio-de-la-vacunacion-contra-la-covid-19;700;;;11650;150
+Argentina;2020-12-31;Sputnik V;https://www.argentina.gob.ar/sites/default/files/informe_seguridad_en_vacunas_31_12_2020.pdf;32013;;;11765;145
+Argentina;2021-01-04;Sputnik V;https://www.argentina.gob.ar/sites/default/files/informe_seguridad_en_vacunas_04_01_2021.pdf;39599;;;11586;82
+Argentina;2021-01-08;Sputnik V;https://www.argentina.gob.ar/noticias/ya-se-aplicaron-107542-dosis-de-la-vacuna-contra-covid-19-en-el-pais;107542;;;4080;74
+Argentina;2021-01-13;Sputnik V;https://www.argentina.gob.ar/noticias/continua-la-vacunacion-contra-el-virus-sars-cov-2-al-personal-de-salud;166833;;;5240;56
+Argentina;2021-01-15;Sputnik V;https://www.argentina.gob.ar/noticias/ya-se-aplicaron-200759-dosis-de-la-vacuna-contra-la-covid-19-en-argentina;200759;;;5884;107
+Argentina;2021-01-20;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;247933;243539;4394;12112;150
+Argentina;2021-01-21;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;265724;249372;16352;11396;139
+Argentina;2021-01-22;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;279602;254456;25146;10753;220
+Argentina;2021-01-23;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;288064;258876;29188;8362;162
+Argentina;2021-01-24;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;292023;260036;31987;5031;90
+Argentina;2021-01-25;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;292386;260122;32264;7578;207
+Argentina;2021-01-26;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;305880;266969;38911;10409;219
+Argentina;2021-01-27;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;318033;272323;45710;10843;182
+Argentina;2021-01-28;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;327999;276548;51451;9471;166
+Argentina;2021-01-29;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;344034;278451;65583;9838;174
+Argentina;2021-01-30;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;366384;281023;85361;6902;156
+Argentina;2021-02-01;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;375851;281577;94274;4975;43
+Argentina;2021-02-03;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;396562;284196;112366;6614;275
+Argentina;2021-02-04;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;444018;297717;146301;9695;177
+Argentina;2021-02-06;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;471383;307501;163882;9196;113
+Argentina;2021-02-07;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;501152;319316;181836;8891;161
+Argentina;2021-02-08;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;511582;322318;189264;8374;285
+Argentina;2021-02-09;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;513178;322975;190203;6680;125
+Argentina;2021-02-10;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;535303;337772;197531;3658;61
+Argentina;2021-02-11;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;572928;362649;210279;5154;227
+Argentina;2021-02-12;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;591632;368023;223609;7794;168
+Argentina;2021-02-13;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;606245;371629;234616;7739;108
+Argentina;2021-02-14;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;609605;372122;237483;7311;200
+Argentina;2021-02-15;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;609791;372181;237610;7151;155
+Argentina;2021-02-16;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;611169;373253;237916;6057;159
+Argentina;2021-02-17;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;612322;374002;238320;4245;48
+Argentina;2021-02-18;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;635583;392399;243184;3259;91
+Argentina;2021-02-19;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;668654;414958;253696;4003;105
+Argentina;2021-02-20;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;707148;445614;261534;6064;184
+Argentina;2021-02-21;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;720267;456929;263338;7671;241
+Argentina;2021-02-22;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;722234;458822;263412;7886;143
+Argentina;2021-02-23;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;746615;481689;264926;5944;122
+Argentina;2021-02-24;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;780455;513394;267061;3709;76
+Argentina;2021-02-25;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;829832;558831;271001;5417;161
+Argentina;2021-02-26;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;903915;620635;283280;7477;151
+Argentina;2021-02-27;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;984895;694470;290425;8183;140
+Argentina;2021-02-28;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;1025003;731571;293432;8234;145
+Argentina;2021-03-01;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;1049169;755212;293957;5083;92
+Argentina;2021-03-02;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;1126108;823446;302662;5469;59
+Argentina;2021-03-03;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;1181292;874916;306376;3168;19
+Argentina;2021-03-04;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;1252461;941695;310766;4658;112
+Argentina;2021-03-05;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;1357596;1030504;327092;6653;115
+Argentina;2021-03-07;Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;1526078;1182874;343204;7855;261
+Argentina;2021-03-08;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;1546699;1202998;343701;7432;191
+Argentina;2021-03-09;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;1648957;1301787;347170;7891;140
+Argentina;2021-03-10;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;1774438;1424984;349454;4860;86
+Argentina;2021-03-11;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;1919074;1564555;354519;2922;10
+Argentina;2021-03-12;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;2098205;1719543;378662;5058;241
+Argentina;2021-03-13;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;2294738;1876113;418625;7307;131
+Argentina;2021-03-14;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;2381429;1932696;448733;7693;107
+Argentina;2021-03-15;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;2404194;1952883;451311;8204;134
+Argentina;2021-03-16;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;2541362;2064529;476833;7849;85
+Argentina;2021-03-17;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;2668103;2170116;497987;6278;68
+Argentina;2021-03-18;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;2805153;2289249;515904;3697;24
+Argentina;2021-03-19;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;2939364;2382859;556505;6164;166
+Argentina;2021-03-20;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;3063864;2472426;591438;8235;200
+Argentina;2021-03-21;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;3119828;2514480;605348;8304;195
+Argentina;2021-03-22;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;3142444;2535054;607390;8328;155
+Argentina;2021-03-23;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;3240731;2618750;621981;8160;90
+Argentina;2021-03-24;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;3328933;2694454;634479;6826;41
+Argentina;2021-03-25;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;3365839;2730260;635579;4032;28
+Argentina;2021-03-26;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;3474415;2824344;650071;6401;126
+Argentina;2021-03-27;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;3570460;2908932;661528;9405;152
+Argentina;2021-03-28;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;3625283;2959843;665440;8300;123
+Argentina;2021-03-29;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;3646068;2980182;665886;8238;146
+Argentina;2021-03-30;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;3744566;3073630;670936;12936;143
+Argentina;2021-03-31;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;3891932;3214538;677394;10338;133
+Argentina;2021-04-01;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;4023017;3342427;680590;7208;81
+Argentina;2021-04-02;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;4123152;3440284;682868;14014;162
+Argentina;2021-04-03;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;4178896;3495125;683771;10154;125
+Argentina;2021-04-04;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;4234505;3550166;684339;16056;122
+Argentina;2021-04-05;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;4260808;3576423;684385;14430;83
+Argentina;2021-04-06;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;4404175;3712009;692166;9902;82
+Argentina;2021-04-07;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;4571819;3870734;701085;10384;83
+Argentina;2021-04-08;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;4771214;4064154;707060;9955;93
+Argentina;2021-04-09;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;4956023;4244964;711059;13667;272
+Argentina;2021-04-10;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;5201468;4478948;722520;20870;163
+Argentina;2021-04-11;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;5313612;4586426;727186;22039;198
+Argentina;2021-04-12;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;5390000;4661085;728915;23683;290
+Argentina;2021-04-13;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;5571878;4836246;735632;24130;228
+Argentina;2021-04-14;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;5754919;4996672;758247;19419;297
+Argentina;2021-04-15;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;5935146;5163344;771802;15262;132
+Argentina;2021-04-16;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;6093016;5305604;787412;19437;178
+Argentina;2021-04-17;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;6226872;5431994;794878;27001;217
+Argentina;2021-04-18;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;6288812;5489318;799494;25157;368
+Argentina;2021-04-19;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;6334554;5534225;800329;24999;383
+Argentina;2021-04-20;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;6433141;5620411;812730;29472;159
+Argentina;2021-04-21;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;6550568;5722607;827961;19119;80
+Argentina;2021-04-22;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;6693438;5851232;842206;16267;64
+Argentina;2021-04-23;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;6807411;5955371;852040;20461;248
+Argentina;2021-04-24;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;7017279;6149835;867444;29145;316
+Argentina;2021-04-25;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;7134949;6263849;871100;25932;291
+Argentina;2021-04-26;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;7214704;6341959;872745;27216;537
+Argentina;2021-04-27;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;7386650;6507572;879078;27884;556
+Argentina;2021-04-28;Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V;http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina;7557986;6672739;885247;21220;298
+;;;;;;;15012;170
+;;;;;;;18793;443
+;;;;;;;25495;512
+;;;;;;;23718;348
+;;;;;;;27001;217
+;;;;;;;25157;368
+;;;;;;;24999;383
+;;;;;;;29472;159
+;;;;;;;19119;80
+;;;;;;;16267;64
+;;;;;;;20461;248
+;;;;;;;29145;316
+;;;;;;;25932;291
+;;;;;;;27216;537
+;;;;;;;27884;556
+;;;;;;;21220;298
+;;;;;;;15012;170
+;;;;;;;18793;443
+;;;;;;;25495;512
+;;;;;;;23718;348

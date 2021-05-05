@@ -1,0 +1,104 @@
+location;date;vaccine;source_url;total_vaccinations;people_vaccinated;people_fully_vaccinated;new case;new death
+Brazil;2021-01-16;Sinovac;https://g1.globo.com/sp/sao-paulo/noticia/2021/01/17/apos-aprovacao-da-anvisa-governo-de-sp-aplica-1a-dose-da-coronavac-antes-do-inicio-do-plano-nacional-de-vacinacao.ghtml;0;0;;61567;1050
+Brazil;2021-01-17;Sinovac;https://g1.globo.com/sp/sao-paulo/noticia/2021/01/17/apos-aprovacao-da-anvisa-governo-de-sp-aplica-1a-dose-da-coronavac-antes-do-inicio-do-plano-nacional-de-vacinacao.ghtml;112;112;;33040;551
+Brazil;2021-01-18;Sinovac;https://coronavirusbra1.github.io/;1109;1109;;23671;452
+Brazil;2021-01-19;Sinovac;https://coronavirusbra1.github.io/;11470;11470;;62094;1192
+Brazil;2021-01-20;Sinovac;https://coronavirusbra1.github.io/;28543;28543;;64385;1340
+Brazil;2021-01-21;Sinovac;https://coronavirusbra1.github.io/;136519;136519;;59119;1316
+Brazil;2021-01-22;Sinovac;https://coronavirusbra1.github.io/;245877;245877;;56552;1096
+Brazil;2021-01-23;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;537774;537774;;62334;1202
+Brazil;2021-01-24;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;604722;604722;;28323;592
+Brazil;2021-01-25;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;700608;700608;;26816;627
+Brazil;2021-01-26;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;848883;848883;;61963;1214
+Brazil;2021-01-27;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;1129885;1129885;;63520;1283
+Brazil;2021-01-28;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;1450900;1450900;;61811;1386
+Brazil;2021-01-29;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;1668032;1656851;;59826;1119
+Brazil;2021-01-30;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;2003211;1923813;;58462;1279
+Brazil;2021-01-31;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;2074059;2046523;;27756;559
+Brazil;2021-02-01;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;2124307;2107624;;24591;595
+Brazil;2021-02-02;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;2292551;2292551;;54096;1210
+Brazil;2021-02-03;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;2521704;2521704;;56002;1254
+Brazil;2021-02-04;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;3073057;3073057;;56873;1232
+Brazil;2021-02-05;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;3074906;3074906;;50872;1239
+Brazil;2021-02-06;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;3401383;3399421;1962;0;0
+Brazil;2021-02-07;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;3553681;3534004;19677;77475;1500
+Brazil;2021-02-08;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;3605538;3579850;25688;0;0
+Brazil;2021-02-09;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;3820207;3786591;33616;74925;1986
+Brazil;2021-02-10;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;4120332;4069677;50655;59602;1330
+Brazil;2021-02-11;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;4406835;4326075;80760;54742;1351
+Brazil;2021-02-12;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;4696136;4586270;109866;51546;1288
+Brazil;2021-02-13;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;5125206;4946738;178468;44299;1043
+Brazil;2021-02-14;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;5236943;5042713;194230;24759;713
+Brazil;2021-02-15;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;5293979;5076110;217869;32197;528
+Brazil;2021-02-16;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;5609937;5324317;285620;55271;1167
+Brazil;2021-02-17;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;5883539;5326007;557532;56766;1150
+Brazil;2021-02-18;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;6206680;5482925;723755;51879;1367
+Brazil;2021-02-19;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;6535156;5640483;894673;53582;1280
+Brazil;2021-02-20;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;6813168;5756361;1056807;54940;1240
+Brazil;2021-02-21;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;6950802;5817908;1132894;29026;527
+Brazil;2021-02-22;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;7028356;5857080;1171276;26986;639
+Brazil;2021-02-23;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;7297061;6002873;1294188;62715;1386
+Brazil;2021-02-24;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;7551676;6116082;1435594;66588;1428
+Brazil;2021-02-25;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;7799000;6202055;1596945;65998;1541
+Brazil;2021-02-26;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;8101787;6346769;1755018;65169;1337
+Brazil;2021-02-27;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;8322042;6437836;1884206;61602;1386
+Brazil;2021-02-28;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;8433568;6518628;1914940;34027;721
+Brazil;2021-03-01;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;8465403;6542206;1923197;35742;778
+Brazil;2021-03-02;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;8841027;6806293;2034734;59925;1641
+Brazil;2021-03-03;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;9277322;7114219;2163103;71704;1910
+Brazil;2021-03-04;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;9739676;7417852;2321824;75102;1699
+Brazil;2021-03-05;Oxford/AstraZeneca, Sinovac;https://coronavirusbra1.github.io/;10169160;7701146;2468014;75495;1800
+Brazil;2021-03-10;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;10362487;7851531;2510956;69609;1555
+Brazil;2021-03-11;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;10740859;8092244;2648615;80508;1086
+Brazil;2021-03-12;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;11149530;8360366;2789164;32321;987
+Brazil;2021-03-13;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;11362190;8512960;2849230;70764;1972
+Brazil;2021-03-14;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;11422666;8561847;2860819;79876;2286
+Brazil;2021-03-15;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;11895560;8919356;2976204;75412;2233
+Brazil;2021-03-17;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;12682290;9451188;3231102;85663;2216
+Brazil;2021-03-18;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;13013331;9709526;3303805;76178;1997
+Brazil;2021-03-19;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;13335728;9970231;3365497;43812;1127
+Brazil;2021-03-20;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;13479165;10099070;3380095;36239;1057
+Brazil;2021-03-21;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;13562176;10168973;3393203;83926;2841
+Brazil;2021-03-22;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;14116560;10609471;3507089;90303;2648
+Brazil;2021-03-23;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;15209201;11559487;3649714;86982;2724
+Brazil;2021-03-24;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;15943964;12148769;3795195;90570;2815
+Brazil;2021-03-25;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;16557071;12639545;3917526;79069;2438
+Brazil;2021-03-26;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;17032868;13053114;3979754;47774;1290
+Brazil;2021-03-27;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;17519083;13487207;4031876;49293;1383
+Brazil;2021-03-28;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;17706983;13659406;4047577;82493;3251
+Brazil;2021-03-29;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;18082153;13988029;4094124;89992;2009
+Brazil;2021-03-30;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;18222559;14112509;4110050;100158;2777
+Brazil;2021-03-31;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;19155981;14921376;4234605;84245;3650
+Brazil;2021-04-02;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;20632877;16099532;4533345;85948;3438
+Brazil;2021-04-03;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;20956770;16377083;4579687;44326;1656
+Brazil;2021-04-04;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;21070128;16472281;4597847;38927;1660
+Brazil;2021-04-05;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;21960953;17128933;4832020;84494;3780
+Brazil;2021-04-06;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;22850791;17791338;5059453;90638;3869
+Brazil;2021-04-07;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;24197996;18859274;5338722;91097;3769
+Brazil;2021-04-08;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;24981199;19386057;5595142;70238;2922
+Brazil;2021-04-09;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;25735314;19886870;5848444;43515;1987
+Brazil;2021-04-10;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;26548845;20513828;6035017;31359;1240
+Brazil;2021-04-11;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;26741261;20654434;6086827;28645;1319
+Brazil;2021-04-12;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;27432994;21080623;6352371;86979;4195
+Brazil;2021-04-13;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;30801723;23602070;7199653;92625;3829
+Brazil;2021-04-14;Oxford/AstraZeneca, Sinovac;https://viz.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;31703967;24197321;7506646;86652;4249
+Brazil;2021-04-18;Oxford/AstraZeneca, Sinovac;https://qsprod.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;32947066;24350046;8597020;93317;3693
+Brazil;2021-04-19;Oxford/AstraZeneca, Sinovac;https://qsprod.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;33755229;24776701;8978528;71832;2616
+Brazil;2021-04-20;Oxford/AstraZeneca, Sinovac;https://qsprod.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;33807132;24805515;9001617;37017;1803
+Brazil;2021-04-21;Oxford/AstraZeneca, Sinovac;https://qsprod.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;34058640;24918188;9140452;35785;1480
+Brazil;2021-04-22;Oxford/AstraZeneca, Sinovac;https://qsprod.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;35024957;25340967;9683990;82186;3808
+Brazil;2021-04-23;Oxford/AstraZeneca, Sinovac;https://qsprod.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;37112833;26398005;10714828;73513;3459
+Brazil;2021-04-24;Oxford/AstraZeneca, Sinovac;https://qsprod.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;37730651;26687711;11042940;73174;3560
+Brazil;2021-04-25;Oxford/AstraZeneca, Sinovac;https://qsprod.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;38027113;26873143;11153970;85774;3305
+Brazil;2021-04-26;Oxford/AstraZeneca, Sinovac;https://qsprod.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;38986878;27345796;11641082;67636;2929
+Brazil;2021-04-27;Oxford/AstraZeneca, Sinovac;https://qsprod.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;40168799;27920546;12248253;42980;1657
+Brazil;2021-04-28;Oxford/AstraZeneca, Sinovac;https://qsprod.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html;40494540;28072153;12422387;30624;1347
+;;;;;;;69381;3321
+;;;;;;;79719;3472
+;;;;;;;45178;2027
+;;;;;;;69105;2914
+;;;;;;;71137;3076
+;;;;;;;32572;1305
+;;;;;;;28636;1139
+;;;;;;;72140;3086
+;;;;;;;79726;3163
